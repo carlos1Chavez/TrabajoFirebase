@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591868800271",
+    "project_id": "mitrabajofirebase",
+    "storage_bucket": "mitrabajofirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591868800271:android:86715a9935a4b332ebe27a",
+        "android_client_info": {
+          "package_name": "com.trabajofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgfWp3aBqpoyQ_myFgcxhgyjcjcw3uqzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
